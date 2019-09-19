@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<style>
+body {background-color: linen;}
+h1 {color: blue;
+margin-left: 40px;}
+<h1><strong>About Me</strong></h1>
+<p> Hello my name is Nicolas Gonzales. I'm a junior from Staten Island, New York. Before attending Syracuse University I attended Xavier High School in New York City. I played football and rugby for Xavier Highschool. I had played football my whole life, but fell in love with rugby my freshman year. Rugby is not very popular around the United States, so I got to play at a really competitve level. In my four years I captured two state championships and finished as the 3rd best team in the nation. I continue playing rugby here at Syracuse University.</p>
+<p> My mothers name is Kimberly she works for a hedgefund. My fathers name is Andrew he works in finance. I also have an older sister named Amanda. She attended Clemson University and I hoping to go to law school next year.</p>
+<p> Along with playing rugby and serving as one of the teams recruitment chairs, I also am a part of greek life. I am a brother of the Phi Kappa Psi fraternity here at Syracuse.</p>
+p{font-family: Times New Roman}       
+</body>
+</html>
